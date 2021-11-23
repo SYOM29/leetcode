@@ -1,3 +1,5 @@
+// Time: O(n)
+// Space: O(n)
 var twoSum = function (nums, target) {
   if (nums == null || nums.length == 1) return [];
 

@@ -1,3 +1,5 @@
+// Time: O(n)
+// Space: O(n)
 var addTwoNumbers = function (l1, l2) {
   if (l1 == null && l2 == null) return null;
 
