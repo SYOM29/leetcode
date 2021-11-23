@@ -12,3 +12,4 @@ This repo will contain my solutions to the challenges on Leetcode.
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)             | [JavaScript](./javaScript/rotate-array.js)       | Medium     |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./javaScript/contains-duplicate.js) | Easy       |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)               | [JavaScript](./javaScript/move-zeroes.js)        | Easy       |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/)         | [JavaScript](./javaScript/reverse-string.js)     | Easy       |
