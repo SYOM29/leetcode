@@ -16,5 +16,7 @@ This repo will contain my solutions to the challenges on Leetcode.
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                       | [JavaScript](./javaScript/move-zeroes.js)                    | Easy       |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                 | [JavaScript](./javaScript/reverse-string.js)                 | Easy       |
 | 412  | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                           | [JavaScript](./javaScript/fizz-buzz.js)                      | Easy       |
+| 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                             | [JavaScript](./javaScript/fibonacci-number.js)               | Easy       |
 | ...  | ...                                                                                             | ...                                                          | ...        |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)                 | [JavaScript](./javaScript/n-th-tribonacci-number.js)         | Easy       |
 | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [JavaScript](./javaScript/get-maximum-in-generated-array.js) | Easy       |
