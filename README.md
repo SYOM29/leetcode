@@ -14,6 +14,7 @@ This repo will contain my solutions to the challenges on Leetcode.
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                     | [JavaScript](./javaScript/rotate-array.js)                   | Medium     |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                         | [JavaScript](./javaScript/contains-duplicate.js)             | Easy       |
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                       | [JavaScript](./javaScript/move-zeroes.js)                    | Easy       |
+| 338  | [Counting Bits](https://leetcode.com/problems/counting-bits/)                                   | [JavaScript](./javaScript/counting-bits.js)                  | Easy       |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                 | [JavaScript](./javaScript/reverse-string.js)                 | Easy       |
 | 412  | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                           | [JavaScript](./javaScript/fizz-buzz.js)                      | Easy       |
 | 509  | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                             | [JavaScript](./javaScript/fibonacci-number.js)               | Easy       |
