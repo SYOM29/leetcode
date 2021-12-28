@@ -1,5 +1,5 @@
 // Time: O(n)
-// Space: O(1)
+// Space: O(n)
 public class Solution {
     public IList<int> Postorder(Node root) {
         return PostOrderTraversal(root, new List<int>());
