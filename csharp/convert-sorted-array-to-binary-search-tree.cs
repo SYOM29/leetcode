@@ -18,3 +18,26 @@ public class Solution {
         return root;
     }
 }
+
+// Time: O(n)
+// Space: O(n)
+public class Solution {
+    public TreeNode SortedArrayToBST(int[] nums) {
+        var n = nums.Length;
+        if(n == 1) return new TreeNode(nums[0]);
+        return ArrayToBST(nums, 0, n-1);
+    }
+    
+    public TreeNode ArrayToBST(int[] nums, int offset, int len)
+    {
+        if(offset <= len)
+        {
+            int mid = (len - offset) / 2 + offset;
+            var node = new TreeNode(nums[mid]);
+            node.left = ArrayToBST(nums, offset, mid - 1);
+            node.right = ArrayToBST(nums, mid + 1, len);
+            return node;
+        }
+        return null;
+    }
+}
